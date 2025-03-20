@@ -47,14 +47,14 @@ Compila el código TypeScript en JavaScript y lo coloca en la carpeta `dist/`.
 npm start
 ```
 
-Este comando ejecuta el servidor desde la carpeta `dist/` con Node.js.
+Este comando ejecuta el archivo index.ts desde la carpeta `dist/` con Node.js.
 
 ## 📂 Estructura del Proyecto
 
 ```
-node-ts-reload/
+basic-ts-proyect/
 │── src/
-│   ├── index.ts       # Servidor principal
+│   ├── index.ts       # Código principal
 │── dist/              # Código compilado (generado tras `npm run build`)
 │── package.json
 │── tsconfig.json      # Configuración de TypeScript
