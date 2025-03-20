@@ -14,8 +14,8 @@ Antes de comenzar, asegúrate de tener instalado:
 1. Clona este repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/node-ts-reload.git
-   cd node-ts-reload
+   git clone https://github.com/yaelmo21/basic-ts-proyect.git
+   cd basic-ts-proyect
    ```
 
 2. Instala las dependencias:
